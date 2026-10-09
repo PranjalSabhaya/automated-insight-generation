@@ -1,0 +1,14 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+pytest-cache-files-*/
+.streamlit/secrets.toml
+*.log
+*.tmp
+insights.csv
+correlation_matrix.csv
+.DS_Store
+Thumbs.db

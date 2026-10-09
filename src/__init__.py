@@ -1,0 +1,2 @@
+"""Automated insight generation package."""
+
