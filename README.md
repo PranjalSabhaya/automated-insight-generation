@@ -32,7 +32,7 @@ Automated Insight Generation is a Streamlit dashboard that analyzes monthly dist
 |-- README.md
 |-- .gitignore
 |-- data/
-|   `-- sample_healthcare.csv
+|   `-- healthcare_dataset.csv
 |-- src/
 |   |-- __init__.py
 |   |-- analytics.py
